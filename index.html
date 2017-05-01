@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>TP3 - XML</title>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<link rel="shortcut icon" href="images/favicon.ico" />
+
+    <!-- CSS -->
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+
+	<!-- API JQuery -->
+	<script language="javascript" src="js/jquery-3.2.0.min.js"></script>
+    
+    <!-- Scripts -->
+	<script type="text/javascript" src="js/scripts.js"></script>
+	<script type="text/javascript" src="js/png-fix.js"></script>
+	<script type="text/javascript" src="js/functions.js"></script>
+	<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+
+</head>
+
+<body>
+	<!-- Header -->
+	<div id="header" class="shell">
+        <div id="logo">
+            <h1>
+                <a href="#"></a>
+            </h1>
+        </div>
+
+		<!-- Navigation -->
+		<div id="navigation">
+			<ul>
+				<li><a href="#" id="menuAccueil" onclick="accueil();">Accueil</a></li>
+
+				<li><a href="#" id="menuList" onclick="listProducts();">Products</a></li>
+
+				<li><a href="#" id="menuPanier" onclick="displayCart();">Panier</a></li>
+
+				<li><a href="#" id="menuNousJoidre" onclick="nousJoindre();">Nous Joindre</a></li>
+			</ul>
+		</div>
+		<!-- End Navigation -->
+		<div class="cl">&nbsp;</div>
+
+		<!-- Login-details -->
+		<div id="login-details">
+			<p>Bienvenu(e), <a href="#" id="user" onclick="login();">Visitant(e)</a></p>
+			<p> &nbsp;&nbsp; || &nbsp; &nbsp; <a href="#" class="cart"><i class="glyphicon glyphicon-shopping-cart"></i></a>
+			Panier $&nbsp;<a href="#" id="total" onclick="displayCart();" class="sum">0.00</a></p>
+		</div>
+		<!-- End Login-details -->
+	</div>
+	<!-- End Header -->
+
+    <!-- Slider -->
+	<div id="slider">
+		<div class="shell">
+
+		</div>
+	</div>
+	<!-- End Slider -->
+
+	<!-- Main -->
+	<div id="main" class="shell">
+		<!-- Sidebar -->
+		<div id="sidebar">
+			<ul class="categories">
+				<li>
+					<h4>Categories</h4>
+					<ul id="categories">
+						<li><a href="#">Lorem ipsum dolor</a></li>
+						<li><a href="#">Morbi eget</a></li>
+						<li><a href="#">Nulla egestas</a></li>
+						<li><a href="#">Curabitur venenatis</a></li>
+						<li><a href="#">Ut dictum purus</a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>Authors</h4>
+					<ul id="autheurs">
+						<li><a href="#">Lorem ipsum dolor</a></li>
+						<li><a href="#">Morbi eget</a></li>
+						<li><a href="#">Nulla egestas</a></li>
+						<li><a href="#">Curabitur venenatis</a></li>
+						<li><a href="#">Ut dictum purus</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<!-- End Sidebar -->
+		
+		<!-- Content -->
+		<div id="content">
+			<!-- Title -->
+			<div id="title">
+			</div>
+            <!-- Panier -->
+            <div class="cart" id="listCart">
+                <table class="tableCart" id="tableCart">
+                
+                </table>
+                <div>
+                    <button id="clearCart">Effacer Panier</button?>
+                </div>
+			</div>
+            
+			<!-- Lists -->
+			<div class="products" id="listProd">
+			</div>
+			<div class="cl">&nbsp;</div>
+		</div>
+		<!-- End Content -->
+		
+		<div class="cl">&nbsp;</div>
+	</div>
+	<!-- End Main -->
+	
+	<!-- Footer -->
+	<div id="footer" class="shell">
+		<div class="top">
+			<div class="cnt">
+				<div>
+					<h4>About BestSellers</h4>
+					<p>Nulla porttitor pretium mattis. Mauris lorem massa, ultricies non mattis bibendum, semper ut erat. Morbi vulputate placerat ligula. Fusce <br />convallis, nisl a Sed lectus ligula, consequat eget bibendum eu, consequat nec nisl. Praesent nec iaculis sapien. <br />Curabitur gravida pretium tincidunt.  </p>
+				</div>
+				<div class="cl">&nbsp;</div>
+				<div class="copy">
+					<p>&copy; Design by CSS-FREE-TEMPLATES.COM - Adapté par Thais Cavalcanti e Souza</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Footer -->
+</body>
+</html>

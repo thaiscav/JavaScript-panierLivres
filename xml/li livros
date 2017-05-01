@@ -1,0 +1,120 @@
+<li>
+  <div class="product">
+    <a href="#" class="info">
+      <span class="holder">
+        <img src="css/images/image01.jpg" alt="" />
+        <span class="book-name">Book Name</span>
+        <span class="author">by John Smith</span>
+        <span class="description">Maecenas vehicula ante eu enim pharetra<br />scelerisque dignissim <br />sollicitudin nisi</span>
+      </span>
+    </a>
+    <a href="#" class="buy-btn">ajouter <span class="price"><span class="low">$</span>22<span class="high">00</span></span></a>
+  </div>
+</li>
+<li>
+  <div class="product">
+    <a href="#" class="info">
+      <span class="holder">
+        <img src="css/images/image02.jpg" alt="" />
+        <span class="book-name">Book Name</span>
+        <span class="author">by John Smith</span>
+        <span class="description">Maecenas vehicula ante eu enim pharetra<br />scelerisque dignissim <br />sollicitudin nisi</span>
+      </span>
+    </a>
+    <a href="#" class="buy-btn">Ajouter <span class="price"><span class="low">$</span>22<span class="high">00</span></span></a>
+  </div>
+</li>
+<li>
+  <div class="product">
+    <a href="#" class="info">
+      <span class="holder">
+        <img src="css/images/image03.jpg" alt="" />
+        <span class="book-name">Book Name</span>
+        <span class="author">by John Smith</span>
+        <span class="description">Maecenas vehicula ante eu enim pharetra<br />scelerisque dignissim <br />sollicitudin nisi</span>
+      </span>
+    </a>
+    <a href="#" class="buy-btn">Ajouter <span class="price"><span class="low">$</span>22<span class="high">00</span></span></a>
+  </div>
+</li>
+<li>
+  <div class="product">
+    <a href="#" class="info">
+      <span class="holder">
+        <img src="css/images/image04.jpg" alt="" />
+        <span class="book-name">Book Name</span>
+        <span class="author">by John Smith</span>
+        <span class="description">Maecenas vehicula ante eu enim pharetra<br />scelerisque dignissim <br />sollicitudin nisi</span>
+      </span>
+    </a>
+    <a href="#" class="buy-btn">BUY NOW <span class="price"><span class="low">$</span>22<span class="high">00</span></span></a>
+  </div>
+</li>
+<li>
+  <div class="product">
+    <a href="#" class="info">
+      <span class="holder">
+        <img src="css/images/image05.jpg" alt="" />
+        <span class="book-name">Book Name</span>
+        <span class="author">by John Smith</span>
+        <span class="description">Maecenas vehicula ante eu enim pharetra<br />scelerisque dignissim <br />sollicitudin nisi</span>
+      </span>
+    </a>
+    <a href="#" class="buy-btn">BUY NOW <span class="price"><span class="low">$</span>22<span class="high">00</span></span></a>
+  </div>
+</li>
+<li>
+  <div class="product">
+    <a href="#" class="info">
+      <span class="holder">
+        <img src="css/images/image06.jpg" alt="" />
+        <span class="book-name">Book Name</span>
+        <span class="author">by John Smith</span>
+        <span class="description">Maecenas vehicula ante eu enim pharetra<br />scelerisque dignissim <br />sollicitudin nisi</span>
+      </span>
+    </a>
+    <a href="#" class="buy-btn">BUY NOW <span class="price"><span class="low">$</span>22<span class="high">00</span></span></a>
+  </div>
+</li>
+<li>
+  <div class="product">
+    <a href="#" class="info">
+      <span class="holder">
+        <img src="css/images/image07.jpg" alt="" />
+        <span class="book-name">Book Name</span>
+        <span class="author">by John Smith</span>
+        <span class="description">Maecenas vehicula ante eu enim pharetra<br />scelerisque dignissim <br />sollicitudin nisi</span>
+      </span>
+    </a>
+    <a href="#" class="buy-btn">BUY NOW <span class="price"><span class="low">$</span>22<span class="high">00</span></span></a>
+  </div>
+</li>
+<li>
+  <div class="product">
+    <a href="#" class="info">
+      <span class="holder">
+        <img src="css/images/image08.jpg" alt="" />
+        <span class="book-name">Book Name</span>
+        <span class="author">by John Smith</span>
+        <span class="description">Maecenas vehicula ante eu enim pharetra<br />scelerisque dignissim <br />sollicitudin nisi</span>
+      </span>
+    </a>
+    <a href="#" class="buy-btn">BUY NOW <span class="price"><span class="low">$</span>22<span class="high">00</span></span></a>
+  </div>
+</li>
+
+
+
+//"<li>"+"<div class='product'>"+
+"<a href='#' class='info'>"+
+"<span class='holder'>"+
+"<img src='"+image+"'alt=''/>"+
+
+"<span class='book-name'>"+titre+"</span>"+
+"<span class='author'>"+author+"</span>"+
+"<span class='description'>"+description+"<br/></span>"+
+
+"</span>"+"</a>"+"<a href='#' class='buy-btn'>Ajouter<span class='price'>"+"<span class='low'>$</span>"+price+"</span>"+
+
+"</a>"+"</div>"+"</li>";
+	
