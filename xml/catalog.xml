@@ -1,0 +1,42 @@
+<catalog>
+      <book>
+      	<id>100</id>
+	      <author>Marthe Laverdière</author>
+	      <title>Jardiner avec Marthe</title>
+	      <genre>Flore Et Minéraux</genre>
+	      <price>24.95</price>
+	      <year>2001</year>
+	      <description>L'horticulture sans chichi:Coiffée de sa calotte rose, Marthe vagabonde au gré de ses souvenirs et des rangées de son potager dans cet ouvrage à son image: authentique et inclassable. Entre deux conseils judicieux, elle raconte le couteau du partage de Jeanne, les poules sarcleuses de Rolland et son profond attachement à la nature.</description>
+	      <image>images/1.png</image>
+      </book>
+      <book>
+      	  <id>200</id>
+	      <author>Fiona Barton</author>
+	      <title>La Veuve</title>
+	      <genre>Romans Policiers</genre>
+	      <price>32.95</price>
+	      <year>2017</year>
+	      <description>Jane Taylor vit paisiblement avec son mari Glen dans une jolie maison. Tout bascule le jour où Glen devient le suspect principal du meurtre d'une petite fille. Le couple vit une descente aux enfers. Après la mort de Glen, fauché par un bus, tout le monde attend des réponses de la part de Jane, désormais veuve.</description>
+	      <image>images/2.png</image>
+      </book>
+      <book>
+      	   <id>300</id>
+	      <author>Grégoire Delacourt</author>
+	      <title>Danser au bord de l'abîme</title>
+	      <genre>Romans Français</genre>
+	      <price>29.95</price>
+	      <year>2017</year>
+	      <description>Sur un coup de tête, Emma quitte mari et enfants pour s'enfuir avec un homme qu'elle connaît à peine. Un roman sur l'urgence à vivre pleinement l'instant présent et la toute-puissance du désir.</description>
+	      <image>images/3.png</image>
+      </book>
+      <book>
+      	   <id>400</id>
+	      <author>David Johnston | Tom Jenkins</author>
+	      <title>Ingénieux : innovations canadiennes qui ont rendu le monde meilleur</title>
+	      <genre>Sciences e Astronomie</genre>
+	      <price>34.95</price>
+	      <year>2017</year>
+	      <description>Avec INGÉNIEUX, David Johnston et Tom Jenkins nous font découvrir les plus importantes innovations canadiennes, un monde d'idées brillantes et inspirantes qui ont profondément transformé notre façon de travailler et de s'amuser. Ceux et celles qui ont la fibre de l'innovation trouveront, au fil de leur lecture, des conseils pour les aider à concrétiser leurs idées. Que vous soyez vous-même canadien ou canadienne et fier de l'être, ou que vous ayez une affection particulière pour nos  concitoyens, ce livre vous invite à célébrer l'ingéniosité nordique.</description>
+	      <image>images/4.png</image>
+      </book>
+</catalog>
