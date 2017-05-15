@@ -1,0 +1,122 @@
+﻿<catalog>
+      <book>
+      	<id>100</id>
+	      <author>Marthe Laverdière</author>
+	      <title>Jardiner avec Marthe</title>
+	      <genre>Flore Et Minéraux</genre>
+	      <price>24.95</price>
+	      <year>2001</year>
+	      <description>L'horticulture sans chichi:Coiffée de sa calotte rose, Marthe vagabonde au gré de ses souvenirs et des rangées de son potager dans cet ouvrage à son image: authentique et inclassable. Entre deux conseils judicieux, elle raconte le couteau du partage de Jeanne, les poules sarcleuses de Rolland et son profond attachement à la nature.</description>
+	      <image>images/1.png</image>
+      </book>
+      <book>
+      	  <id>200</id>
+	      <author>Fiona Barton</author>
+	      <title>La Veuve</title>
+	      <genre>Romans Policiers</genre>
+	      <price>32.95</price>
+	      <year>2017</year>
+	      <description>Jane Taylor vit paisiblement avec son mari Glen dans une jolie maison. Tout bascule le jour où Glen devient le suspect principal du meurtre d'une petite fille. Le couple vit une descente aux enfers. Après la mort de Glen, fauché par un bus, tout le monde attend des réponses de la part de Jane, désormais veuve.</description>
+	      <image>images/2.png</image>
+      </book>
+      <book>
+      	   <id>300</id>
+	      <author>Grégoire Delacourt</author>
+	      <title>Danser au bord de l'abîme</title>
+	      <genre>Romans Français</genre>
+	      <price>29.95</price>
+	      <year>2017</year>
+	      <description>Sur un coup de tête, Emma quitte mari et enfants pour s'enfuir avec un homme qu'elle connaît à peine. Un roman sur l'urgence à vivre pleinement l'instant présent et la toute-puissance du désir.</description>
+	      <image>images/3.png</image>
+      </book>
+      <book>
+      	   <id>400</id>
+	      <author>David Johnston | Tom Jenkins</author>
+	      <title>Ingénieux : innovations canadiennes qui ont rendu le monde meilleur</title>
+	      <genre>Sciences e Astronomie</genre>
+	      <price>34.95</price>
+	      <year>2017</year>
+	      <description>Avec INGÉNIEUX, David Johnston et Tom Jenkins nous font découvrir les plus importantes innovations canadiennes, un monde d'idées brillantes et inspirantes qui ont profondément transformé notre façon de travailler et de s'amuser. Ceux et celles qui ont la fibre de l'innovation trouveront, au fil de leur lecture, des conseils pour les aider à concrétiser leurs idées. Que vous soyez vous-même canadien ou canadienne et fier de l'être, ou que vous ayez une affection particulière pour nos  concitoyens, ce livre vous invite à célébrer l'ingéniosité nordique.</description>
+	      <image>images/4.png</image>
+      </book>
+ <book>
+      	   <id>500</id>
+	      <author>Guillaume Musso</author>
+	      <title>Central Park</title>
+	      <genre>Romans Français</genre>
+	      <price>29.95</price>
+	      <year>2014</year>
+	      <description>Alice, jeune flic parisienne, et Gabriel, pianiste de jazz américain, se réveillent menottés l'un à l'autre sur un banc de Central Park. Ils ne se connaissent pas et n'ont aucun souvenir de leur rencontre. Pour comprendre ce qui leur arrive et renouer les fils de leurs vies, Alice et Gabriel n'ont pas d'autre choix que de faire équipe. La vérité qu'ils vont découvrir va bouleverser leur existence</description>
+	      <image>images/5.png</image>
+      </book>
+<book>
+      	   <id>600</id>
+	      <author> Lori Lansens</author>
+	      <title>Les égarés</title>
+	      <genre>Romans</genre>
+	      <price>17.99</price>
+	      <year>2017</year>
+	      <description>inq jours, quatre randonneurs, trois survivants... Le jour de son dix-huitième anniversaire, Wolf entreprend l'ascension de la montagne surplombant Palm Springs, avec en tête le projet de se jeter dans le vide.</description>
+	      <image>images/6.png</image>
+      </book>
+<book>
+      	   <id>700</id>
+	      <author> Elizabeth Kolbert</author>
+	      <title>La 6e extinction</title>
+	      <genre>Sciences sociales</genre>
+	      <price>29.95</price>
+	      <year>2015</year>
+	      <description>À travers l'histoire, notre planète a connu cinq grandes extinctions de masse. Les scientifiques estiment aujourd'hui que nous nous dirigeons vers la sixième et la plus dévastatrice des extinctions depuis la disparition des dinosaures : celle de l'humanité. </description>
+	      <image>images/7.png</image>
+      </book>
+<book>
+      	   <id>800</id>
+	      <author>kerry Hudson</author>
+	      <title>La Couleur de l'eau</title>
+	      <genre>Romans Étrangers</genre>
+	      <price>14.95</price>
+	      <year>2017</year>
+	      <description>ave, vigile dans un magasin de luxe à Londres, laisse s'échapper une voleuse. A la fin de sa journée de travail, il la trouve dehors à l'attendre. </description>
+	      <image>images/8.png</image>
+      </book>
+<book>
+      	   <id>900</id>
+	      <author>Pascale Senk</author>
+	      <title>L'Effet haiku : lire et écrire des poèmes courts agrandit notre vie</title>
+	      <genre>Croissance Personnelle</genre>
+	      <price>27.95</price>
+	      <year>2017</year>
+	      <description>Véritable voie de méditation et d'épanouissement, les haïkus, poèmes courts d'inspiration japonaise, invitent à développer son attention au monde et à la nature, à exprimer sa vie intérieure et ses émotions, et à saisir les instants précieux de la vie.</description>
+	      <image>images/9.png</image>
+      </book>
+<book>
+      	   <id>1000</id>
+	      <author>Brigitte Harrisson | Lise St-Charles</author>
+	      <title>L'Autisme expliqué aux non-autistes</title>
+	      <genre>Psychologie</genre>
+	      <price>19.95</price>
+	      <year>2017</year>
+	      <description>Cet ouvrage propose une description unique du TSA (trouble du spectre de l'autisme) en soulignant qu'un cerveau autiste est différent d'un cerveau neurotypique, qu'il est connecté autrement et qu'il ne traite pas les informations de la même manière.</description>
+	      <image>images/10.png</image>
+      </book>
+<book>
+      	   <id>1100</id>
+	      <author>François Morency</author>
+	      <title>Discussions avec mes parents</title>
+	      <genre>Humour</genre>
+	      <price>24.95</price>
+	      <year>2017</year>
+	      <description>Ce livre est une craque dans l'armure de François. On apprend à le connaître dans une intimité sur laquelle on l'a rarement vu ouvrir la porte. Ce qui rend le tout d'autant plus touchant.</description>
+	      <image>images/11.png</image>
+      </book>
+<book>
+      	   <id>1200</id>
+	      <author>Dominique Demers</author>
+	      <title>Mon fol amour</title>
+	      <genre>Romans Québécois Et Canadiens </genre>
+	      <price>26.95</price>
+	      <year>2017</year>
+	      <description>Pour qu'une histoire d'amour traverse le temps, il faut des fondations solides. Mais les coups de foudre reposent rarement sur un rapport d'inspection concluant.</description>
+	      <image>images/12.png</image>
+      </book>
+</catalog>
